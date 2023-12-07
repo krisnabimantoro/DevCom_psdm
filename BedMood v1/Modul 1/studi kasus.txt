@@ -1,0 +1,8 @@
+Buatkan program penghitung diskon dengan ketentuan sebagai berikut :
+> Memiliki minimal 3 variable bertipe float dan 1 variable bertipe string
+> Telah mengimplementasikan input dan output pada program 
+> Telah menggunakan syntax programming dengan benar 
+> Telah mengimplementasikan comments dengan benar 
+> Telah mendeklarasikan variabel dengan aturan yang benar 
+> Telah mengimplementasikan sebuah tipe data beserta value ke dalam program
+
