@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-main()
+int main()
 {
     char kata[] = "devCom";
     int n = strlen(kata);
